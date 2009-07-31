@@ -1,0 +1,8 @@
+First attempt was going to load data into CouchDB. Far too slow for me.
+
+Second attempt is to make sure everything is working. 
+The results.txt file in this version is created by a a random selection of 10 repos from the list of repos.
+Mostly curious to see how well random recommendations will do.
+My code is in Erlang but I'm too embarrassed by my code to post it yet.
+
+
